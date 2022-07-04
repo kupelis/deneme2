@@ -1,0 +1,16 @@
+.box {
+    width: 300px;
+    height: 300px;
+    padding: 35px;
+    /* margin-top: 50px; üstten boşluk*/
+    /* margin-bottom: 50px; alttan boşluk*/
+    float: left
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-green {
+    background-color: green;
+}

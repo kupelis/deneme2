@@ -1,0 +1,128 @@
+
+/* yazı tipi 
+
+.p1 {
+    font-family: "Times New Roman";
+   }
+   .p2 {
+    font-family: Arial;
+   }
+   .p3 {
+    font-family: monospace;
+   }
+
+*/
+
+
+   /* italic,bold etc. 
+
+   p.normal {
+    font-style: normal;
+   }
+   p.italic {
+    font-style: italic;
+   }
+   p.oblique {
+    font-style: oblique;
+   }
+
+*/
+
+
+   /* boyut 
+
+   h1 {
+    font-size: 40px;
+   }
+   h2 {
+    font-size: 30px;
+   }
+   p {
+    font-size: 14px;
+   }
+*/
+
+/* COLORHUNT RENK PALETLERI KONUSUNDA MUAZZAM BIR SITE! */
+
+/* birden fazla etikete birçok özellik yüklerim
+ayrıca birden fazla kelime varsa css'te kelimeler arasına "-" girer */
+
+h1,h2,h3,h4,h5,h6 {
+    color:#9e7a7a
+}
+
+/* ******************************************* */
+
+h1 {
+    font-size: 30px;
+    
+}
+p {font-size: 20px;
+}
+
+/* ********************** */
+#first-article {
+    font-size: 40 px;
+}
+/* ********************** */
+
+.text-red{
+    color:red;
+ }
+
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+.up {
+    text-transform:uppercase;
+}
+
+
+
+/* css selectors */
+
+li:first-child {
+    color:rgb(21, 180, 21);
+}
+
+li:last-child {
+    color:aqua;
+}
+
+
+li:nth-child(2) {
+    color: red;
+}
+
+
+li:nth-child(odd) {
+    color: red;
+}
+
+
+li:nth-child(even) {
+    background: aqua;
+}
+
+
+li:nth-child(2n+1) {
+    background: pink;
+}
+
+/* 
+
+CSS SELECTOR 
+
+https://www.w3schools.com/cssref/css_selectors.asp
+
+*/
